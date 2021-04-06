@@ -1,10 +1,10 @@
 ---
-title: Store
+title: Boutique
 sections:
   - type: store_section
     section_id: store_section
   - type: featured_products_section
-    title: Best sellers
+    title: Meilleures ventes
     section_id: featured_products_section
     icon: true
     featured_products:
