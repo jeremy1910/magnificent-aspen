@@ -18,15 +18,6 @@ sections:
           
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in vestibulum lacus. Morbi nisl purus, consequat a urna egestas, molestie varius sem. Sed a massa in felis mattis placerat. Proin convallis, turpis id suscipit mollis, dui lacus placerat diam, a ornare tellus nibh et dui. Curabitur malesuada, justo sed maximus pellentesque, magna purus commodo justo, ut ornare nisi turpis id.
-
-
-
-
-          * US shipping will take between 3 to 5 business days.
-
-          * International shipping will take between 5 and 10 business days.
-
-          * Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
