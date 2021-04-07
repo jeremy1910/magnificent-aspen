@@ -30,16 +30,16 @@ sections:
       - src/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Témoignages
     testimonials:
-      - text: I didn't know the Snipcart guys were into herbs as well! How beautiful is
-          that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+      - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel
+          mauris urna. Fusce eget turpis pellentesque, congue felis eget,
+          maximus.
         author:
           name: John Dope
           location: Colorado, USA
-      - text: Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+      - text: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis
+          lectus eu dui pretium rutrum. Donec ornare ex non elementum."
         author:
           name: Major Payne
           location: VA, USA
