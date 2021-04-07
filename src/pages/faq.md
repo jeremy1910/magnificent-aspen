@@ -13,15 +13,20 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How long does shipping take?
+      - question: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+          
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in vestibulum lacus. Morbi nisl purus, consequat a urna egestas, molestie varius sem. Sed a massa in felis mattis placerat. Proin convallis, turpis id suscipit mollis, dui lacus placerat diam, a ornare tellus nibh et dui. Curabitur malesuada, justo sed maximus pellentesque, magna purus commodo justo, ut ornare nisi turpis id.
+
+
+
+
+          * US shipping will take between 3 to 5 business days.
+
+          * International shipping will take between 5 and 10 business days.
+
+          * Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
@@ -36,18 +41,6 @@ sections:
           you’re as transparent as possible with your data handling process. Or,
           if you’re using Snipcart, just refer to [our ToS and
           DPA](http://bit.ly/2YJwlyt)."
-      - question: Rapid-fire questions
-        answer: "Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> Q: Why did you build a
-          theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
-          opening up the JAMstack to more developers. Plus, we trust these
-          folks. [Read more about Stackbit](http://bit.ly/2YAvGix). <br /><br />
-          Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-          small, bootstrapped team of eight human beings. Michael might be a
-          robot, though. <br /><br /> Q: Why is Snipcart based in Québec City?
-          <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
-          the meaning of life? <br /> A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough."
   - type: contact_section
     section_id: contact_section
     image: images/promo.jpg
