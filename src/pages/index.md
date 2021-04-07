@@ -45,8 +45,8 @@ sections:
           location: VA, USA
   - type: promotion_section
     section_id: promotion_section
-    title: Une nouvelle décoration d'intérieure
-    subtitle: from $149.99
+    title: Un espace de mise en avant de produit
+    subtitle: 50 €
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
