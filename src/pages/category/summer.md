@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Plante  d'été
 order: 4
 template: category
 ---
