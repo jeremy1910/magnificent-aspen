@@ -9,7 +9,7 @@ sections:
     content: "# Faites vous livrer de magnifiques plantes"
     actions:
       - type: action
-        title: See all items
+        title: Voir tous les article
         url: /store
         style: primary
         arrow: true
