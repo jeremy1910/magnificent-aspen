@@ -20,7 +20,7 @@ sections:
     background_image: /images/leaf.svg
     cta:
       type: action
-      title: Discover
+      title: Découvrir
       url: /store
       style: secondary
       arrow: true
