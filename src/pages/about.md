@@ -30,7 +30,7 @@ sections:
     background_image: /images/leaf.svg
     cta:
       type: action
-      title: Discover
+      title: Voir les produits
       url: /store
       style: primary
       arrow: true
